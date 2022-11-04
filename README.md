@@ -1,16 +1,16 @@
 
-Introduction
+**Introduction**
 
 Ansible playbook dedicated to the installation of docker-ce and docker compose on debian
 
 
-Requirements
+**Requirements**
 
 Ansible must be installed and runnable.
 
 
 
-How to run
+**How to run**
 
 
 1-update inventory file with your hosts
