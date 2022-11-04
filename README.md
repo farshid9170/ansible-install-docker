@@ -13,7 +13,7 @@ Ansible must be installed and runnable.
 **How to run**
 
 
-1-update inventory file with your hosts
+1-update inventory file with your hosts/n
 2-run playbook
 
 
