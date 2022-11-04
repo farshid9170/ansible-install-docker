@@ -13,8 +13,8 @@ Ansible must be installed and runnable.
 **How to run**
 
 
-1-update inventory file with your hosts/n
-2-run playbook
+update inventory file with your hosts and tun playbook
+
 
 
 ansible-playbook -i inventory install_docker.yml
